@@ -1,2 +1,2 @@
 # feather-radio
-Ardafruit feather LoRa used to transmit and receive GPS information. The codes were edited from the source codes in Adafruit website.
+Adafruit feather LoRa (https://learn.adafruit.com/adafruit-feather-32u4-radio-with-lora-radio-module) with a GPS featherwing (https://www.adafruit.com/product/3133) installed. It is set up to transmit GPS information to a 8-channel RAK gateway. The codes were edited from the source codes in Adafruit website: https://learn.adafruit.com/adafruit-feather-32u4-radio-with-lora-radio-module/using-the-rfm-9x-radio
